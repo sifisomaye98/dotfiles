@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sifmay98@gmail.com
+	name = Sifiso Maye
